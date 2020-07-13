@@ -8,7 +8,7 @@ public class HelloGit {
     public static void main(String[] args){
         System.out.println("I love you");
         System.out.println("I love you");
-        System.out.println("fuck I am branch");
+        System.out.println("I am monster");
 
     }
 }
